@@ -1,8 +1,6 @@
-import Home from "../../Pages/Home";
+import Home from "../../Page/Home";
 
-type Props = {};
-
-const App = (props: Props) => {
+const App = () => {
   return <Home />;
 };
 export default App;
